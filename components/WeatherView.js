@@ -113,7 +113,7 @@ export default class WeatherView extends React.Component {
                     onPress={this.onDeleteCard}
                     style={styles.crossButton}
                 >
-                    <Text style={{color: '#EDA237', fontWeight: 'bold'}}>X</Text>
+                    <Text style={{color: '#EDA237', fontWeight: 'bold', fontSize: 14}}>X</Text>
                 </TouchableOpacity>
             </View>
         );
@@ -210,7 +210,6 @@ const styles = StyleSheet.create({
     position:'absolute',
     right:width * 0.05,
     top:width * 0.05,
-    fontSize:14,
   },
   summary: {
     color: 'white',
