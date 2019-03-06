@@ -1,7 +1,7 @@
 # My-weather-app
 Mobile weather forecast app built with react native.
 <br />
-It is a school assignment for mobile app development course.
+It is a school assignment for mobile app development course. Received full mark :)
 <br />
 
 
